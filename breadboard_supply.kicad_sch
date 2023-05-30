@@ -1370,13 +1370,13 @@
       (reference "K2") (unit 1) (value "HFD4-3") (footprint "breadboard_supply:HFD4")
     )
     (path "/9cd5aa95-5b45-4322-a327-234152cdadd8/ec6eb3ba-8018-4576-a058-4b77452a1832"
-      (reference "L1") (unit 1) (value "22uH 3A") (footprint "Inductor_SMD:L_6.3x6.3_H3")
+      (reference "L1") (unit 1) (value "22uH 3A") (footprint "Inductor_SMD:L_Bourns_SRN6045TA")
     )
     (path "/9cd5aa95-5b45-4322-a327-234152cdadd8/36e8c39e-49cd-49bc-8bb9-35e183aeb356"
-      (reference "L2") (unit 1) (value "22uH 3A") (footprint "Inductor_SMD:L_6.3x6.3_H3")
+      (reference "L2") (unit 1) (value "22uH 3A") (footprint "Inductor_SMD:L_Bourns_SRN6045TA")
     )
     (path "/9cd5aa95-5b45-4322-a327-234152cdadd8/48de9688-6aac-40bc-97dd-0fa147f78687"
-      (reference "L3") (unit 1) (value "22uH 3A") (footprint "Inductor_SMD:L_6.3x6.3_H3")
+      (reference "L3") (unit 1) (value "22uH 3A") (footprint "Inductor_SMD:L_Bourns_SRN6045TA")
     )
     (path "/bb3f3361-9d8b-40a3-8ec7-cedb2455f5ad/45d0b6f1-6262-4d76-931f-9b248cf6302d"
       (reference "LED1") (unit 1) (value "SP420281N") (footprint "breadboard_supply:SP420281N")
