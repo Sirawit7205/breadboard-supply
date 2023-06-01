@@ -266,7 +266,7 @@
     (property "Value" "CYPD3177-24LQXQ" (id 1) (at 16.51 -30.48 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias" (id 2) (at 58.42 -33.02 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm" (id 2) (at 58.42 -33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2208051100_Cypress-Semicon-CYPD3177-24LQXQ_C2959321.pdf" (id 3) (at 57.15 -35.56 0)

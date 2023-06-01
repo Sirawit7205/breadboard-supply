@@ -1112,7 +1112,7 @@
       (reference "#PWR0126") (unit 1) (value "GND") (footprint "")
     )
     (path "/2733a8e1-ac11-4f3b-aff4-926d7b0717a5/2991468e-9aae-4b2d-b164-51cf154e7fc4"
-      (reference "C1") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C1") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/2733a8e1-ac11-4f3b-aff4-926d7b0717a5/3d35c4b8-3eab-40f2-8b64-756a55fcc98d"
       (reference "C2") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -1321,11 +1321,11 @@
     (path "/321ea154-de93-489f-9f7b-67524c4e6aee/f88e2bfa-6288-4a9a-8119-7f3a28639645"
       (reference "F2") (unit 1) (value "JK-MSMD200-24V") (footprint "Fuse:Fuse_1812_4532Metric")
     )
-    (path "/bb3f3361-9d8b-40a3-8ec7-cedb2455f5ad/f6de2d94-b60e-4e69-9f40-0116ed94bd05"
-      (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
+    (path "/bb3f3361-9d8b-40a3-8ec7-cedb2455f5ad/4a25e538-d9d5-4acf-a60c-1f6bcfd98b3a"
+      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
     )
-    (path "/bb3f3361-9d8b-40a3-8ec7-cedb2455f5ad/0e52a363-bcbb-47ff-a685-847b1fc2f674"
-      (reference "H2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
+    (path "/bb3f3361-9d8b-40a3-8ec7-cedb2455f5ad/905ffbc1-a66c-4ec2-9ba3-265d3b480d54"
+      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
     )
     (path "/2733a8e1-ac11-4f3b-aff4-926d7b0717a5/81bda6d7-4207-4c89-82b1-757ac3133e43"
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "breadboard_supply:USB_C_Receptacle_HRO_TYPE-C-31-M-12_NO_SBU_CircularHoles")
@@ -1622,7 +1622,7 @@
       (reference "U1") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/2733a8e1-ac11-4f3b-aff4-926d7b0717a5/069691d8-e966-435e-80bf-05be6e960e1e"
-      (reference "U2") (unit 1) (value "CYPD3177-24LQXQ") (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias")
+      (reference "U2") (unit 1) (value "CYPD3177-24LQXQ") (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm")
     )
     (path "/321ea154-de93-489f-9f7b-67524c4e6aee/bab114fc-a819-40b2-86f6-09f451cab5a6"
       (reference "U3") (unit 1) (value "DZDH0401DW") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6")
