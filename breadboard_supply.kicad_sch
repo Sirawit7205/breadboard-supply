@@ -1262,7 +1262,7 @@
       (reference "D1") (unit 1) (value "SMF28CA") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/2733a8e1-ac11-4f3b-aff4-926d7b0717a5/fafc8a2d-17b6-407b-af02-696124dd406e"
-      (reference "D2") (unit 1) (value "ZMM12V") (footprint "Diode_SMD:D_SOD-323")
+      (reference "D2") (unit 1) (value "BZT52C12S") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/2733a8e1-ac11-4f3b-aff4-926d7b0717a5/4f637abf-4eeb-4042-9af4-64f50ed175d7"
       (reference "D3") (unit 1) (value "Red") (footprint "LED_SMD:LED_0603_1608Metric")
@@ -1313,10 +1313,10 @@
       (reference "D18") (unit 1) (value "1N4007") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/2733a8e1-ac11-4f3b-aff4-926d7b0717a5/598e7eea-628b-4234-96ad-76a68a37dfe9"
-      (reference "F1") (unit 1) (value "JK-MSMD200-24V") (footprint "Fuse:Fuse_1812_4532Metric")
+      (reference "F1") (unit 1) (value "ASMD1812-200-30V") (footprint "Fuse:Fuse_1812_4532Metric")
     )
     (path "/321ea154-de93-489f-9f7b-67524c4e6aee/f88e2bfa-6288-4a9a-8119-7f3a28639645"
-      (reference "F2") (unit 1) (value "JK-MSMD200-24V") (footprint "Fuse:Fuse_1812_4532Metric")
+      (reference "F2") (unit 1) (value "ASMD1812-200-30V") (footprint "Fuse:Fuse_1812_4532Metric")
     )
     (path "/bb3f3361-9d8b-40a3-8ec7-cedb2455f5ad/4a25e538-d9d5-4acf-a60c-1f6bcfd98b3a"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad")
@@ -1418,7 +1418,7 @@
       (reference "R6") (unit 1) (value "1K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/2733a8e1-ac11-4f3b-aff4-926d7b0717a5/eef00040-7aef-4f93-b931-e458d703dfb5"
-      (reference "R7") (unit 1) (value "4K7") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R7") (unit 1) (value "3K3") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/2733a8e1-ac11-4f3b-aff4-926d7b0717a5/cdae167e-c97e-421f-ab02-b391634e7daf"
       (reference "R8") (unit 1) (value "49K9") (footprint "Resistor_SMD:R_0603_1608Metric")

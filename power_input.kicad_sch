@@ -1699,7 +1699,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f88e2bfa-6288-4a9a-8119-7f3a28639645)
     (property "Reference" "F2" (id 0) (at 57.15 25.4 90))
-    (property "Value" "JK-MSMD200-24V" (id 1) (at 57.15 27.94 90))
+    (property "Value" "ASMD1812-200-30V" (id 1) (at 57.15 27.94 90))
     (property "Footprint" "Fuse:Fuse_1812_4532Metric" (id 2) (at 62.23 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
