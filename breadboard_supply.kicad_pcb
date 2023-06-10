@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Dual Rail Breadboard Power Supply")
+    (date "2023-06-11")
+    (rev "1")
+    (company "Sleepy Pony Labs")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (1 "In1.Cu" signal)

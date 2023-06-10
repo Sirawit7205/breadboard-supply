@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Dual Rail Breadboard Power Supply")
+    (date "2023-06-11")
+    (rev "1")
+    (company "Sleepy Pony Labs")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Current:INA180A4" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 3.81 3.81 0)
