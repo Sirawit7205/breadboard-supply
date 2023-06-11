@@ -3735,7 +3735,7 @@
     (property "Reference" "R7" (id 0) (at 180.34 102.8699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "3K3" (id 1) (at 180.34 105.4099 0)
+    (property "Value" "2K4" (id 1) (at 180.34 105.4099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 177.8 104.14 0)

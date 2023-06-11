@@ -9996,7 +9996,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a0d60824-ff7a-429c-b3f5-9762658244f0)
     )
-    (fp_text value "3K3" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "2K4" (at 0 1.43) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cff13f5a-e1e6-445d-b779-a4dd81321f30)
     )
